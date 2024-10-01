@@ -38,4 +38,4 @@ Este programa es un conversor de monedas que permite convertir cantidades entre 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/kazuma387/conversor-de-monedas.git
-   cd conversor-de-monedas-java
+   gh repo clone kazuma387/conversor-de-monedas
