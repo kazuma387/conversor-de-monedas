@@ -19,7 +19,7 @@ Este programa es un conversor de monedas que permite convertir cantidades entre 
 
 ## Requisitos 🛠️
 
-- JDK 11 o superior
+- Java 14 o superior
 - Conexión a Internet (para acceder a la API de conversiones)
 
 ## Ejemplo de uso
