@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este programa es un conversor de monedas que permite convertir cantidades entre diferentes monedas utilizando una API de conversiones. También mantiene un historial de conversiones realizadas.
+Este programa es un conversor de monedas que permite convertir cantidades entre diferentes monedas utilizando una API de conversiones (https://app.exchangerate-api.com/). También mantiene un historial de conversiones realizadas.
 
 ## Características ✨
 
