@@ -24,7 +24,9 @@ Este programa es un conversor de monedas que permite convertir cantidades entre 
 
 ## Ejemplo de uso
 
-![Ejemplo de conversión](images/ejemplo_conversion.png "Conversión de USD a COP")
+![Ejemplo de conversión 1](images/de USD a COP.png "Conversión de USD a COP")
+![Ejemplo de conversión 2](images/de EUR a COP.png "Conversión de USD a COP")
+![Ejemplo de conversión 3](images/historial.png "Conversión de USD a COP")
 
 ## Uso 🚀
 
